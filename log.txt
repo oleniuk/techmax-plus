@@ -1,0 +1,809 @@
+2024-02-18 16:43:51 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: 123%0AТелефон: 123123123%0A
+2024-02-18 16:43:51 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 7
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708263836
+            [text] => Товар: cooker-1.html
+Ім'я: 123
+Телефон: 123123123
+        )
+
+)
+
+2024-02-18 17:08:19 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: test+name%0AТелефон: 54545323423%0A
+2024-02-18 17:08:19 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 8
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708265304
+            [text] => Товар: cooker-1.html
+Ім'я: test name
+Телефон: 54545323423
+        )
+
+)
+
+2024-02-18 17:09:35 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: %D0%9D%D1%96%D0%BD%D0%B0%0AТелефон: 0001112322%0A
+2024-02-18 17:09:35 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 9
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708265380
+            [text] => Товар: cooker-1.html
+Ім'я: Ніна
+Телефон: 0001112322
+        )
+
+)
+
+2024-02-18 17:16:23 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %7B%22name%22%3A%22%D0%9D%D1%96%D0%BD%D0%B0%22%7D%0AДодав товар: %0D%0A++++++++++++++++++%D0%9A%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D1%96+%D0%B2%D0%B0%D0%B3%D0%B8+Rainberg%0D%0A++++++++++++++++%0A
+2024-02-18 17:16:23 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %7B%22name%22%3A%22%D0%9D%D1%96%D0%BD%D0%B0%22%7D%0AДодав товар: %0D%0A++++++++++++++++++%3Cp+style%3D%22color%3A+%23fff%3B+margin-bottom%3A+3px%22%3E%D0%9D%D0%BE%D0%B2%D0%B0+%D1%86%D1%96%D0%BD%D0%B0%3C%2Fp%3E%0D%0A++++++++++++++++++%3Cp+class%3D%22price%22+style%3D%22color%3A+%23000%22%3E249+%D0%B3%D1%80%D0%BD%3C%2Fp%3E%0D%0A++++++++++++++++%0A
+2024-02-18 17:16:23 - 
+2024-02-18 17:16:23 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 10
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708265788
+            [text] => Ім'я: {"name":"Ніна"}
+Додав товар: 
+                  Кухонні ваги Rainberg
+        )
+
+)
+
+2024-02-18 17:18:44 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: %D0%9D%D1%96%D0%BD%D0%B0%0AТелефон: 068684555%0A
+2024-02-18 17:18:44 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %22%D0%9D%D1%96%D0%BD%D0%B0%22%0AДодав товар: %D0%9A%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D1%96+%D0%B2%D0%B0%D0%B3%D0%B8+Rainberg%0A
+2024-02-18 17:18:44 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %22%D0%9D%D1%96%D0%BD%D0%B0%22%0AДодав товар: %3Cp+style%3D%22color%3A+%23fff%3B+margin-bottom%3A+3px%22%3E%D0%9D%D0%BE%D0%B2%D0%B0+%D1%86%D1%96%D0%BD%D0%B0%3C%2Fp%3E%0D%0A++++++++++++++++++%3Cp+class%3D%22price%22+style%3D%22color%3A+%23000%22%3E249+%D0%B3%D1%80%D0%BD%3C%2Fp%3E%0A
+2024-02-18 17:18:44 - 
+2024-02-18 17:18:44 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 11
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708265929
+            [text] => Товар: cooker-1.html
+Ім'я: Ніна
+Телефон: 068684555
+        )
+
+)
+
+2024-02-18 17:18:44 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 12
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708265929
+            [text] => Ім'я: "Ніна"
+Додав товар: Кухонні ваги Rainberg
+        )
+
+)
+
+2024-02-18 17:23:47 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: cooker-3.html%0AІм'я: %D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%0AТелефон: 068685858%0A
+2024-02-18 17:23:47 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 13
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266232
+            [text] => Товар: cooker-3.html
+Ім'я: Дмитро
+Телефон: 068685858
+        )
+
+)
+
+2024-02-18 17:24:47 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %22%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%22%0AТелефон: %22068685858%22%0AДодав товар: %D0%9E%D0%B2%D0%BE%D1%87%D0%B5%D1%80%D1%96%D0%B7%D0%BA%D0%B0+UKR-3006%0A
+erg%0A
+2024-02-18 17:24:47 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 14
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266291
+            [text] => Ім'я: "Дмитро"
+Телефон: "068685858"
+Додав товар: Овочерізка UKR-3006
+        )
+
+)
+
+2024-02-18 17:24:47 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 15
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266291
+            [text] => Ім'я: "Дмитро"
+Телефон: "068685858"
+Додав товар: Кухонні ваги Rainberg
+        )
+
+)
+
+2024-02-18 17:29:18 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Товар: blender.html%0AІм'я: %D0%9D%D1%96%D0%BD%D0%B0%0AТелефон: 068686858%0A
+2024-02-18 17:29:19 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 16
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266563
+            [text] => Товар: blender.html
+Ім'я: Ніна
+Телефон: 068686858
+        )
+
+)
+
+2024-02-18 17:29:21 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %22%D0%9D%D1%96%D0%BD%D0%B0%22%0AТелефон: %22068686858%22%0AДодав товар: %D0%9E%D0%B2%D0%BE%D1%87%D0%B5%D1%80%D1%96%D0%B7%D0%BA%D0%B0+UKR-3006%0A
+2024-02-18 17:29:21 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 17
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266565
+            [text] => Ім'я: "Ніна"
+Телефон: "068686858"
+Додав товар: Овочерізка UKR-3006
+        )
+
+)
+
+2024-02-18 17:29:36 - https://api.telegram.org/bot6890323856:AAEFic41EgpeSFvT1W5IcnrTLLmMcN2AZm0/sendMessage?chat_id=-4159477347&parse_mode=html&text=Ім'я: %22%D0%9D%D1%96%D0%BD%D0%B0%22%0AТелефон: %22068686858%22%0AДодав товар: %D0%9A%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D1%96+%D0%B2%D0%B0%D0%B3%D0%B8+Rainberg%0A
+2024-02-18 17:29:36 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 18
+            [from] => stdClass Object
+                (
+                    [id] => 6890323856
+                    [is_bot] => 1
+                    [first_name] => Tech Max Lead
+                    [username] => Tech_Max_Lead_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4159477347
+                    [title] => Tech Max Lead
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708266581
+            [text] => Ім'я: "Ніна"
+Телефон: "068686858"
+Додав товар: Кухонні ваги Rainberg
+        )
+
+)
+
+2024-02-18 20:40:27 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-2.html%0AІм'я: test%0AТелефон: 2%0A
+2024-02-18 20:40:27 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 32
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708278031
+            [text] => Товар: cooker-2.html
+Ім'я: test
+Телефон: 2
+        )
+
+)
+
+2024-02-18 20:40:31 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-2.html%0AІм'я: test%0AТелефон: 2%0A
+2024-02-18 20:40:31 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 33
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708278036
+            [text] => Товар: cooker-2.html
+Ім'я: test
+Телефон: 2
+        )
+
+)
+
+2024-02-18 20:40:42 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: pans-1.html%0AІм'я: test%0AТелефон: 7%0A
+2024-02-18 20:40:42 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 34
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708278046
+            [text] => Товар: pans-1.html
+Ім'я: test
+Телефон: 7
+        )
+
+)
+
+2024-02-18 20:40:53 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: super-promo.html%0AІм'я: test%0AТелефон: 8%0A
+2024-02-18 20:40:53 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 35
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708278057
+            [text] => Товар: super-promo.html
+Ім'я: test
+Телефон: 8
+        )
+
+)
+
+2024-02-18 20:41:02 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: super-promo.html%0AІм'я: test%0AТелефон: 8%0A
+2024-02-18 20:41:02 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 36
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708278066
+            [text] => Товар: super-promo.html
+Ім'я: test
+Телефон: 8
+        )
+
+)
+
+2024-02-18 21:09:51 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: f%0AТелефон: 1%0A
+2024-02-18 21:09:51 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 47
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708279796
+            [text] => Товар: cooker-1.html
+Ім'я: f
+Телефон: 1
+        )
+
+)
+
+2024-02-18 23:14:52 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: edew%0AТелефон: 2131%0A
+2024-02-18 23:14:52 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 98
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287296
+            [text] => Товар: cooker-1.html
+Ім'я: edew
+Телефон: 2131
+        )
+
+)
+
+2024-02-18 23:16:01 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: aqwedasd%0AТелефон: asdasd%0A
+2024-02-18 23:16:01 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 99
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287365
+            [text] => Товар: cooker-1.html
+Ім'я: aqwedasd
+Телефон: asdasd
+        )
+
+)
+
+2024-02-18 23:17:57 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: aqwasdedasd%0AТелефон: asdasd%0A
+2024-02-18 23:17:58 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 100
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287482
+            [text] => Товар: cooker-1.html
+Ім'я: aqwasdedasd
+Телефон: asdasd
+        )
+
+)
+
+2024-02-18 23:18:04 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: wqerw%0AТелефон: erw+erw+er%0A
+2024-02-18 23:18:05 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 101
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287489
+            [text] => Товар: cooker-1.html
+Ім'я: wqerw
+Телефон: erw erw er
+        )
+
+)
+
+2024-02-18 23:18:28 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: 2345345%0AТелефон: 345345%0A
+2024-02-18 23:18:29 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 102
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287513
+            [text] => Товар: cooker-1.html
+Ім'я: 2345345
+Телефон: 345345
+        )
+
+)
+
+2024-02-18 23:19:15 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: rte%0AТелефон: rte456456%0A
+2024-02-18 23:19:15 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 103
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708287560
+            [text] => Товар: cooker-1.html
+Ім'я: rte
+Телефон: rte456456
+        )
+
+)
+
+2024-02-18 23:28:19 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: %D0%B9%D1%86%D1%83%D0%BA%D0%B5%D0%BD%0AТелефон: 1234123434%0A
+2024-02-18 23:28:19 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 104
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708288104
+            [text] => Товар: cooker-1.html
+Ім'я: йцукен
+Телефон: 1234123434
+        )
+
+)
+
+2024-02-18 23:28:33 - https://api.telegram.org/bot6718575765:AAFSOk7SWEDAIblXtW3ymHe5NKdMqXmE1nY/sendMessage?chat_id=-4105245112&parse_mode=html&text=Товар: cooker-1.html%0AІм'я: %D0%B9%D1%86%D1%83%D0%BA%D0%B5%D0%BD%0AТелефон: 1234123434%0A
+2024-02-18 23:28:33 - stdClass Object
+(
+    [ok] => 1
+    [result] => stdClass Object
+        (
+            [message_id] => 105
+            [from] => stdClass Object
+                (
+                    [id] => 6718575765
+                    [is_bot] => 1
+                    [first_name] => Test1
+                    [username] => Tttestttt1_bot
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -4105245112
+                    [title] => Testt111
+                    [type] => group
+                    [all_members_are_administrators] => 1
+                )
+
+            [date] => 1708288118
+            [text] => Товар: cooker-1.html
+Ім'я: йцукен
+Телефон: 1234123434
+        )
+
+)
+
